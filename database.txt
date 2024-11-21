@@ -1,0 +1,6 @@
+Usuário/senha:
+Admin
+imersaoalura
+
+String de Conexão:
+mongodb+srv://Admin:imersaoalura@cluster0.swtjb.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
